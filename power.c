@@ -1,8 +1,9 @@
 #include<stdio.h>
 void main()
 {
-int real;
+int base;
 int exponent;
+ int result=1;
 scanf("%d%d",&real,&exponent);
  while (exponent != 0)
     {
