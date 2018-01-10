@@ -13,8 +13,8 @@ void main()
 
    
     if (n == a)
-        printf("%d is a palindrome.");
+        printf(" num is a palindrome");
     else
-        printf("%d is not a palindrome.");
+        printf("num  is not a palindrome.");
    
 }
