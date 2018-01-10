@@ -4,7 +4,7 @@ void main()
 int base;
 int exponent;
  int result=1;
-scanf("%d%d",&real,&exponent);
+scanf("%d%d",&base,&exponent);
  while (exponent != 0)
     {
         result *= base;
