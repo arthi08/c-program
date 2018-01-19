@@ -12,7 +12,7 @@ void main()
 	
 	}
 	if(result==num)
-	printf("armstrong");
+	printf("yes,armstrong");
 	else
 	printf("not armstrong num");
 	// your code goes here
