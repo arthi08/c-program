@@ -1,6 +1,6 @@
 
 #include <stdio.h>
- void main()
+ int main()
 {
  int array[100], maximum, size, i, location = 1;
  printf("Enter the number of elements in array");
@@ -18,4 +18,5 @@
     }
   }
   printf("%d", maximum);
+  return 0;
 }
